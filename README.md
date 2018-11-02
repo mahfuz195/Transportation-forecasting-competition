@@ -7,17 +7,17 @@ project
 │   code.py    
 │
 └───data
-│   │   oct
-|   |   |   1
-|   |   |   |   data.txt
-|   |   |   2
-|   |   |   |   data.txt
+│   |___oct
+|   |   |___1
+|   |   |   |___data.txt
+|   |   |___2
+|   |   |   |___data.txt
 |   |   |   ...
-│   │   nov
-|   |   |   1
-|   |   |   |   data.txt
-|   |   |   2
-|   |   |   |   data.txt
+│   │___nov
+|   |   |___1
+|   |   |   |___data.txt
+|   |   |___2
+|   |   |   |___data.txt
 |   |   |   ...
 ```
 
