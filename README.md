@@ -19,6 +19,7 @@ project
 |   |   |___2
 |   |   |   |___data.txt
 |   |   |   ...
+|___result
 ```
 
 
