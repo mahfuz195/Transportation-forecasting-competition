@@ -4,19 +4,17 @@
 ```
 project
 │   README.md
-│   file001.txt    
+│   code.py    
 │
 └───data
-│   │   oct.txt
+│   │   oct
 |   |   |   1
 |   |   |   2
 |   |   |   ...
-│   │   file012.txt
-│   │   oct.txt
+│   │   oct
 |   |   |   1
 |   |   |   2
 |   |   |   ...
-│   │   file012.txt
 ```
 
 
