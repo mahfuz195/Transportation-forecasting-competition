@@ -1,24 +1,12 @@
 # Transportation-forecasting-competition
 
 ### Folder Structure
--- Data
+.
++-- data
+|   +-- oct
+|   +--1
+|   +-- nov
 
-   --oct
-   
-       --1
-   
-       --2
-     
-       ...
-     
-     --nov
-     
-       --1
-     
-       --2
-     
-       ...
-   
 ### Method
 
 
